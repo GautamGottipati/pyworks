@@ -14,4 +14,6 @@ Your points     :_/Total Matches
 Computers score :_/Total Matches
 ```
 ### OUTPUT:
+![tictactoe](https://user-images.githubusercontent.com/38732642/47134671-2bcf4c80-d2cb-11e8-9fb2-15a80ae08fa7.JPG)
+
 
